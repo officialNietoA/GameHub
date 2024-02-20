@@ -3,6 +3,11 @@
 
 Welcome to GameHub, your destination for downloading and installing games in a simple, lightweight, and static web environment. Unlike traditional game platforms, GameHub operates without the need for a database, making it easy to deploy and use with just HTML and CSS.
 
+![Screenshot 2024-02-20 160819](https://github.com/officialNietoA/GameHub/assets/110462747/a09cec17-b7d3-4cf0-9938-8b785a19d595)
+
+![Screenshot 2024-02-20 160857](https://github.com/officialNietoA/GameHub/assets/110462747/dd579173-189c-4725-88c4-ed1a2087331d)
+
+
 
 
 
@@ -19,7 +24,6 @@ To start exploring the collection of games on GameHub, simply clone the reposito
 ## Contributing
 
 Although GameHub doesn't support game installations or complex interactions, contributions are still welcomed! You can help improve the project by suggesting new games to be added to the collection or by enhancing the user experience through HTML and CSS improvements.
-
 
 ## Feedback
 
