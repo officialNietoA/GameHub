@@ -13,9 +13,9 @@ Welcome to GameHub, your destination for downloading and installing games in a s
 
 ## Features :boom:
 
-- Static Web Environment: GameHub operates entirely on HTML and CSS, ensuring fast loading times and easy deployment.
-- Mobile Responsive Design: Enjoy gaming on the go with GameHub's mobile-responsive design, ensuring a seamless experience across different devices and screen sizes.
-- Explore Only: While GameHub doesn't support game installations due to its static nature, it provides a platform for discovering exciting titles and learning more about them.
+- **Static Web Environment:** GameHub operates entirely on HTML and CSS, ensuring fast loading times and easy deployment.
+- **Mobile Responsive Design:** Enjoy gaming on the go with GameHub's mobile-responsive design, ensuring a seamless experience across different devices and screen sizes.
+- **Explore Only:** While GameHub doesn't support game installations due to its static nature, it provides a platform for discovering exciting titles and learning more about them.
 
 
 ## Getting Started :boom:
